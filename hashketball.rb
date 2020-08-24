@@ -1,9 +1,11 @@
 def game_hash
   {
-    :home => {
+    :home => 
+    {
       :team_name => "Brooklyn Nets",
       :colors => ["Black", "White"],
-      :players => [
+      :players => 
+      [
         {
           :player_name => "Alan Anderson",
           :number => 0,
@@ -59,9 +61,10 @@ def game_hash
           :blocks => 11,
           :slam_dunks => 1
         },
-        ]
+      ]
     },
-    :away => {
+    :away => 
+    {
       :team_name => "Brooklyn Nets",
       :colors => ["Black", "White"],
       :players => 
