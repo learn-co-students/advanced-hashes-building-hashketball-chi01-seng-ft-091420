@@ -64,7 +64,8 @@ def game_hash
     :away => {
       :team_name => "Brooklyn Nets",
       :colors => ["Black", "White"],
-      :players => [
+      :players => 
+      [
         {
           :player_name => "Jeff Adrien",
           :number => 4,
@@ -120,7 +121,7 @@ def game_hash
           :blocks => 5,
           :slam_dunks => 12
         },
-        ]  
+      ]  
     }
   }
 end
